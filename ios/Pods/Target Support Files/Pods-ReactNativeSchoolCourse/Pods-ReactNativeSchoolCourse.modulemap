@@ -1,0 +1,6 @@
+module Pods_ReactNativeSchoolCourse {
+  umbrella header "Pods-ReactNativeSchoolCourse-umbrella.h"
+
+  export *
+  module * { export * }
+}
